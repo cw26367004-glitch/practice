@@ -1,3 +1,4 @@
-# 12回 VSCode Git 演習
+# 12回 VSCod
 今日は VSCode で Git 操作を練習します。
 niubikelasi
+hahahaha
